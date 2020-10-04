@@ -6,9 +6,7 @@ This repository
 
 ## Horiseon Homepage
 
-<p align="center">
-  <img >
-</p>
+  ![image](https://user-images.githubusercontent.com/25594179/95007641-9e27bd00-05c6-11eb-9c72-892916e6c7b5.png)
 
 ## License
 
