@@ -2,7 +2,7 @@
 
 ## The Project
 
-This repository was created to refactor the html and css code in order to make it readable and bring it up to date for Horiseon. Also added CSS comments in order to better understand the style sheet.
+This repository was created to refactor the html and css code in order to make it readable and bring it up to date for Horiseon. Also added CSS comments in order to better understand the style sheet. View the project [here](https://maninblack1974.github.io/coderefactor/)
 
 ## Horiseon Homepage
 
