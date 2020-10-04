@@ -10,6 +10,4 @@ This repository was created to refactor the html and css code in order to make i
 
 ## License
 
-Copyright (c) Microsoft Corporation. All rights reserved.
-
 Licensed under the [MIT](LICENSE) license.
