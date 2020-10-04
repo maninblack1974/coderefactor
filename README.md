@@ -2,7 +2,7 @@
 
 ## The Project
 
-This repository
+This repository was created to refactor the html and css code in order to make it readable and bring it up to date for Horiseon. Also added CSS comments in order to better understand the style sheet.
 
 ## Horiseon Homepage
 
@@ -12,4 +12,4 @@ This repository
 
 Copyright (c) Microsoft Corporation. All rights reserved.
 
-Licensed under the [MIT](LICENSE.txt) license.
+Licensed under the [MIT](LICENSE) license.
